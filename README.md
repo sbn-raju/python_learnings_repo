@@ -3,7 +3,8 @@ This repository contains daily practice problems for the Python course I am lear
 <br>
 
 # Daily Practice Problems
-- Day 1:Printing Hello World as the first Program (hello.py)<br>Taking input of two integers and performing Arithmetic operations on it.(sum.py)
+- Day 1:Printing Hello World as the first Program <br>Taking input of two integers and performing Arithmetic operations on it.(You will find the source codes in folder Day-1)<br>
+- Day 2:Strings and Conditional Statements wrote the program about the different<br> string functions and did some minor projects(You will find the source codes in folder Day-2).
 
 <br>
 
